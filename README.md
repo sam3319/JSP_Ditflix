@@ -14,8 +14,12 @@
 <br>
 
 ## <span id="1">🏃 1. 프로젝트 소개</span>
-
+- test
+- test
+- test
 <br>
+
+
 ## <span id="2">🏃 2. 팀원 소개</span>
 
 <div align="center">
