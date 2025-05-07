@@ -8,13 +8,16 @@
 
 ## 0. 목차
 
-1.  [팀원 소개](#1)
+1.  [프로젝트 소개](#1)
+2.  [팀원 소개](#2)
 
-<br >
+<br>
 
-## <span id="1">🏃 1. 팀원 소개</span>
+## <span id="1">🏃 1. 프로젝트 소개</span>
 
-## 💁‍♂️ 프로젝트 팀원
+<br>
+## <span id="2">🏃 2. 팀원 소개</span>
+
 <div align="center">
 
 | <img src="https://img.shields.io/badge/Project_Leader-FF5733" /> | 팀원 |
