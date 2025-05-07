@@ -19,7 +19,7 @@
 ## 💁‍♂️ 프로젝트 팀원
 |팀장|팀원|
 |:---:|:---:|
-| ![](https://github.com/sam3319.png?size=50) | ![](https://github.com/.png?size=120) |
+| ![](https://github.com/sam3319.png?size=120) | ![](https://github.com/.png?size=120) |
 |[이동현](https://github.com/sam3319)|[김지훈](https://github.com/)|
 
 <br>
