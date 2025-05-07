@@ -17,10 +17,11 @@
 ## <span id="1">🏃 1. 팀원 소개</span>
 
 ## 💁‍♂️ 프로젝트 팀원
+<div align=center>
 |<img src="https://img.shields.io/badge/Project_Leader-FF5733" />|팀원|
 |:---:|:---:|
 |  <img src="https://github.com/sam3319.png" width="120px;"/> |  <img src="https://github.com/.png" width="120px;"/> |
 |[이동현](https://github.com/sam3319)|[김지훈](https://github.com/)|
-
+</div>
 <br>
 
