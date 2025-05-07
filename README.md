@@ -3,9 +3,6 @@
 <div align='center'>
 
 <h1><b>JSP_Ditflix</b></h1>
-<h3><b>프로젝트 부제목</b></h3>
-
-Notion: [프로젝트 노션 링크](https://)
 
 </div>
 
