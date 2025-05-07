@@ -2,6 +2,7 @@
 
 <div align='center'>
 <h1><b>JSP_Ditflix</b></h1>
+[<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-green?style=flat&logo=&logoColor=white" />]()
 </div>
 
 <br>
