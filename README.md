@@ -25,10 +25,10 @@
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/Project_Leader-FF5733" /> | 팀원 |
+| 팀장 | 팀원 |
 | :---: | :---: |
-| <img src="https://github.com/sam3319.png" width="120px"/> | <img src="https://github.com/사용자명.png" width="120px"/> |
-| [이동현](https://github.com/sam3319) | [김지훈](https://github.com/사용자명) |
+| <img src="https://github.com/sam3319.png" width="120px"/> | <img src="https://github.com/jihun5914.png" width="120px"/> |
+| [이동현](https://github.com/sam3319) | [김지훈](https://github.com/jihun5914) |
 
 </div>
 <br>
