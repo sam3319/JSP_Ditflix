@@ -13,6 +13,7 @@
 2.  [팀원 소개](#2)
 3.  [사이트맵](#3)
 4.  [기술스택](#4)
+5.  [ERD](#5)
 
 <br>
 
@@ -72,3 +73,5 @@
 <p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
 
 <br>
+
+## <span id="5">📚 5. ERD</span>
