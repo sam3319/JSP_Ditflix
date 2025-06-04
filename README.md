@@ -38,6 +38,26 @@
 ## <span id="3">🏃 3. 사이트맵, ERD, 파일구조</span>
 
 
+## 권장 워크스페이스 구조 📁
+
+### **1. 워크스페이스와 프로젝트 분리**
+
+```
+📂 Development/
+├── 📂 Eclipse_Workspaces/
+│   └── 📂 OTT_Workspace/          # Eclipse 워크스페이스 (메타데이터만)
+│       └── 📂 .metadata/          # Eclipse 설정 파일들
+└── 📂 Projects/                   # 실제 프로젝트 파일들
+    └── 📂 OTT_Project/           # 여러분의 OTT 프로젝트
+        ├── 📂 src/
+        ├── 📂 WebContent/
+        └── 📂 .settings/
+```
+
+
+### **2. OTT 프로젝트 내부 구조**
+
+```
 📂 OTT_Project/
 ├── 📂 src/
 │   └── 📂 com/
@@ -61,6 +81,7 @@
 │   ├── 📄 index.html            # 메인 페이지
 │   └── 📄 join.html             # 회원가입 페이지
 └── 📂 build/                    # 컴파일된 클래스 파일들
+```
 
 <br>
 
