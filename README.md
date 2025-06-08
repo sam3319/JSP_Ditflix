@@ -59,7 +59,7 @@
 │   ├── 📂 css/                  # CSS 파일들
 │   ├── 📂 js/                   # JavaScript 파일들
 │   ├── 📂 images/               # 이미지 파일들
-│   ├── 📂 jsp/                  # JSP 페이지들
+│   ├── 📂 views/                # JSP 페이지들
 │   │   ├── 📂 user/             # 사용자 관련 JSP
 │   │   ├── 📂 content/          # 콘텐츠 관련 JSP
 │   │   └── 📂 board/            # 게시판 관련 JSP
