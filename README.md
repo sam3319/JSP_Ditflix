@@ -66,6 +66,7 @@
 │   │   ├── 📂 content/          # 콘텐츠 관련 JSP
 │   │   └── 📂 board/            # 게시판 관련 JSP
 │   ├── 📄 index.html            # 메인 페이지
+│   ├── 📄 index.html            # 메인 페이지
 │   └── 📄 join.html             # 회원가입 페이지 
 └── 📂 build/                    # 컴파일된 클래스 파일들
 ```
