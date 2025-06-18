@@ -64,6 +64,7 @@
 │   │   ├── 📂 user/             # 사용자 관련 JSP
 │   │   │    └── 📄 join.html     # 회원가입 페이지 
 │   │   ├── 📂 content/          # 콘텐츠 관련 JSP
+│   │   ├── 📂 content/          # 콘텐츠 관련 JSP
 │   │   └── 📂 board/            # 게시판 관련 JSP
 │   ├── 📄 index.html            # 메인 페이지
 │   └── 📄 join.html             # 회원가입 페이지 
