@@ -100,8 +100,12 @@
                       </c:choose>">${board.category}</span>
                   <a href="FreeBoardPost.FreeBoardDo?id=${board.freeBoardId}" class="text-decoration-none text-white post-title">
                     ${board.title}
+                 		<!-- 댓글 수 가져오기 -->
+                    <c:if test="${board.commentCount > 0}">
+          						<small class="text-white ms-2">[${board.commentCount}]</small>
+        						</c:if>
                   </a>
-                  <span class="comment-count">[${board.commentCount != null ? board.commentCount : 0}]</span>
+
                 </td>
                 <td class="text-center">${board.nickName}</td>
                 <td class="text-center">${board.createdAt.toLocalDate()}</td>

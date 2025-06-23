@@ -87,9 +87,9 @@
               <small class="text-white">${fn:substring(board.createdAt, 0, 16)}</small>
             </div>
             <div>
-              <i class="bi bi-eye me-1"></i> ${board.viewCount}
-              <i class="bi bi-chat-dots ms-3 me-1"></i> ${commentCount != null ? commentCount : 0}
-            </div>
+  						<i class="bi bi-eye me-1"></i> ${board.viewCount}
+  						<i class="bi bi-chat-dots ms-3 me-1"></i> ${commentCount != null ? commentCount : 0}
+						</div>
           </div>
         </div>
         

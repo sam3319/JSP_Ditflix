@@ -68,7 +68,7 @@ public class FreeBoardDAO {
     	List<FreeBoardDTO> dtos = new ArrayList<FreeBoardDTO>();
     	StringBuilder sql = new StringBuilder();
     	
-    	sql.append("SELECT f.FreeBoardId, f.LoginId, f.Title, f.Content, f.Category, f.ViewCount, f.CreatedAt, f.UpdatedAt, f.IsDeleted, u.NickName FROM FreeBoard f JOIN Users u ON f.LoginId = u.LoginId WHERE f.IsDeleted = FALSE");
+    	sql.append("SELECT f.FreeBoardId, f.LoginId, f.Title, f.Content, f.Category, f.ViewCount, f.CreatedAt, f.UpdatedAt, f.IsDeleted, u.NickName, (SELECT COUNT(*) FROM FreeBoardComment c WHERE c.FreeBoardId = f.FreeBoardId AND c.IsDeleted = FALSE) AS CommentCount FROM FreeBoard f JOIN Users u ON f.LoginId = u.LoginId WHERE f.IsDeleted = FALSE");
     	
     	if(searchKeyword != null && !searchKeyword.trim().isEmpty()) {
     		if(searchType != null && searchType.equals("title")) {
@@ -111,6 +111,7 @@ public class FreeBoardDAO {
     			dto.setUpdatedAt(rs.getTimestamp("UpdatedAt").toLocalDateTime());
     			dto.setDeleted(rs.getBoolean("IsDeleted"));
     			dto.setNickName(rs.getString("NickName"));
+    			dto.setCommentCount(rs.getInt("CommentCount"));
     			
     			dtos.add(dto);
     		}
@@ -273,5 +274,26 @@ public class FreeBoardDAO {
         
         return false;
     }
-
+    
+    // 댓글 수 가져오기 
+    public int getCommentCountByBoardId(Long freeBoardId) {
+        String sql = "SELECT COUNT(*) FROM FreeBoardComment WHERE FreeBoardId = ? AND IsDeleted = FALSE";
+        
+        try (Connection con = getConnection();
+             PreparedStatement pstmt = con.prepareStatement(sql)) {
+            
+            pstmt.setLong(1, freeBoardId);
+            ResultSet rs = pstmt.executeQuery();
+            
+            if (rs.next()) {
+                return rs.getInt(1);
+            }
+            
+        } catch (Exception e) {
+            System.out.println("댓글 수 조회 오류: " + e.getMessage());
+            e.printStackTrace();
+        }
+        
+        return 0;
+    }
 }
