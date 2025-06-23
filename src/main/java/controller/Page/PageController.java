@@ -67,7 +67,7 @@ public class PageController extends HttpServlet {
 			viewPage = "WEB-INF/views/myPage.jsp";
 		}
 		// 멤버쉼 소개
-		else if(com != null && com.equals("membership")) {
+		else if(com != null && com.equals("memberShip")) {
 			viewPage = "WEB-INF/views/memberShip.jsp";
 		}
 		// 검색 페이지

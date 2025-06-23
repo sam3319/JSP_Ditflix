@@ -38,13 +38,13 @@
           <a class="nav-link text-white" href="search.do"><i class="bi bi-search" style="font-size: 1.5rem;"></i></a>
         </li>
         <li class="nav-item ms-4 mt-4">
-          <a class="nav-link active" href="ReviewBoardList.ReviewBoardDo"><i class="bi bi-image" style="font-size: 1.5rem;"></i></a>
+          <a class="nav-link active" href="reviewBoard.do"><i class="bi bi-image" style="font-size: 1.5rem;"></i></a>
         </li>
         <li class="nav-item ms-4 mt-4">
-          <a class="nav-link text-white" href="FreeBoardList.FreeBoardDo"><i class="bi bi-chat-square-text-fill" style="font-size: 1.5rem;"></i></a>
+          <a class="nav-link text-white" href="freeBoard.do"><i class="bi bi-chat-square-text-fill" style="font-size: 1.5rem;"></i></a>
         </li>
         <li class="nav-item ms-4 mt-4">
-          <a class="nav-link text-white" href="membership.do"><i class="bi bi-question-square" style="font-size: 1.5rem;"></i></a>
+          <a class="nav-link text-white" href="memberShip.do"><i class="bi bi-question-square" style="font-size: 1.5rem;"></i></a>
         </li>      
       </ul>
     </div>

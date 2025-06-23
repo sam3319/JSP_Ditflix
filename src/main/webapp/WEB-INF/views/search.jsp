@@ -67,7 +67,7 @@
                 </li>
                 <!-- Q/A게시판 이동 -->
                 <li class="nav-item ms-4 mt-4">
-                    <a class="nav-link ft-wt" href="membership.do"><i
+                    <a class="nav-link ft-wt" href="memberShip.do"><i
                             class="bi bi-question-square"
                             style="font-size: 1.5rem;"></i></a>
                 </li>

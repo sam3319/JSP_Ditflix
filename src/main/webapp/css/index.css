@@ -41,17 +41,17 @@
             margin-bottom: 20px;
         }
         .bannerImage1{
-            background-image: linear-gradient(to left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%), url('./image/test1.webp');
+            background-image: linear-gradient(to left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%), url('/photo/default/banner1.webp');
             background-size: cover;
             background-position: center top;
         }
         .bannerImage2{
-            background-image: linear-gradient(to left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%), url('./image/test2.webp');
+            background-image: linear-gradient(to left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%), url('/photo/default/banner2.webp');
             background-size: cover;
             background-position: center top;
         }
         .bannerImage3{
-            background-image: linear-gradient(to left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%), url('./image/test3.webp');
+            background-image: linear-gradient(to left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%), url('/photo/default/banner3.webp');
             background-size: cover;
             background-position: center top;
         }

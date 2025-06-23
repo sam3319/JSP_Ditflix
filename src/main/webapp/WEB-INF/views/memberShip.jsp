@@ -244,7 +244,7 @@
           <div class="col">
             <div class="testimonial-card">
               <div class="d-flex align-items-center">
-                <img src="image/profile1.png" alt="User"
+                <img src="photo/default/profile1.png" alt="User"
                   class="testimonial-avatar">
                 <div>
                   <h5 class="mb-0">이동현</h5>
@@ -266,7 +266,7 @@
           <div class="col">
             <div class="testimonial-card">
               <div class="d-flex align-items-center">
-                <img src="/image/profile2.png" alt="User"
+                <img src="photo/default/profile2.png" alt="User"
                   class="testimonial-avatar">
                 <div>
                   <h5 class="mb-0">김지훈</h5>
