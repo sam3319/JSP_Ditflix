@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e588869-c31b-482d-b94e-51c917dea0aa)<div id="top"></div>
+<div id="top"></div>
 
 <div align='center'>
 <h1><b>JSP_Ditflix</b></h1>
