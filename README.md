@@ -214,19 +214,6 @@
 <img alt="mariadb" src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
 <img alt="apachetomcat" src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 
-
-### Design
-
-
-
-### Hosting
-
-
-
-### Communication
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Discord](https://img.shields.io/badge/Discord-2D8CFF?style=for-the-badge&logo=Discord&logoColor=white)
-
 <br>
 
 <!-- Top Button -->
