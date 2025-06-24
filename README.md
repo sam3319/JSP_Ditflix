@@ -198,7 +198,7 @@
 │
 ├── 📂 .settings/                       # Eclipse IDE 설정
 ├── 📄 .classpath                       # Eclipse 클래스패스 설정
-└──  📄 .project                         # Eclipse 프로젝트 설정
+└── 📄 .project                         # Eclipse 프로젝트 설정
 ```
 
 <br>
