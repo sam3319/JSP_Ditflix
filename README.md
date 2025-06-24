@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ce2f57d6-d4a4-4afb-a8ec-d2815a18649e)<div id="top"></div>
+![image](https://github.com/user-attachments/assets/8e588869-c31b-482d-b94e-51c917dea0aa)<div id="top"></div>
 
 <div align='center'>
 <h1><b>JSP_Ditflix</b></h1>
@@ -19,7 +19,7 @@
 ## <span id="1">🏃 1. 프로젝트 소개</span>
 - 기존 OTT 플랫폼(ex. 넷플릭스, 디즈니+)의 미디어 시청 기능과 여러 미디어 매체 커뮤니케이션 웹 어플리케이션.
 
-![image](https://github.com/user-attachments/assets/08135ed4-84db-4b94-8d0a-b7834a7ba96d)
+
 
 - 
 <br>
