@@ -219,12 +219,13 @@
 <br>
 
 ## <span id="5"> 5. 사이트맵</span>
-![ERD](https://github.com/user-attachments/assets/dcfdda32-3efc-4642-be94-c824e43d5a84)
+
 
 <br>
 
 ## <span id="6"> 6. ERD</span>
 ![ERD](https://github.com/user-attachments/assets/42ccc76a-1ee3-4bc2-a0e2-f153672d8fcf)
+![사이트맵](https://github.com/user-attachments/assets/bccdf7b5-4e31-4680-a755-998cf7f5cb10)
 
 
 <!-- Top Button -->
