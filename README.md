@@ -1,4 +1,4 @@
-<div id="top"></div>
+![ERD](https://github.com/user-attachments/assets/c5391939-8fd1-4583-93c3-5b7bc9c210a2)<div id="top"></div>
 
 <div align='center'>
 <h1><b>JSP_Ditflix</b></h1>
@@ -11,12 +11,14 @@
 
 1.  [프로젝트 소개](#1)
 2.  [팀원 소개](#2)
-3.  [사이트맵, ERD, 파일구조](#3)
-4.  [기술스택](#4)
+3.  [기술스택](#3)
+4.  [워크스페이스 구조](#4)
+5.  [사이트맵](#5)
+6.  [ERD](#6)
 
 <br>
 
-## <span id="1">🏃 1. 프로젝트 소개</span>
+## <span id="1"> 1. 프로젝트 소개</span>
 - 기존 OTT 플랫폼(ex. 넷플릭스, 디즈니+)의 미디어 시청 기능과 여러 미디어 매체 커뮤니케이션 웹 어플리케이션.
 
 
@@ -25,7 +27,7 @@
 <br>
 
 
-## <span id="2">🏃 2. 팀원 소개</span>
+## <span id="2"> 2. 팀원 소개</span>
 
 <div align="center">
 
@@ -37,11 +39,24 @@
 </div>
 <br>
 
-## <span id="3">🏃 3. 사이트맵, ERD, 파일구조</span>
+## <span id="3"> 3. 기술 스택</span>
+
+### Environment
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
 
 
-## 워크스페이스 구조 📁
+### Development
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="mariadb" src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img alt="apachetomcat" src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+
+<br>
+
+## <span id="4"> 4. 워크스페이스 구조</span>
+ 
 ```
 📂 JSP_Ditflix/
 ├── 📂 src/main/java/
@@ -203,21 +218,14 @@
 
 <br>
 
-## <span id="4">📚 4. 기술 스택</span>
-
-### Environment
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
-
-
-### Development
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="mariadb" src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img alt="apachetomcat" src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+## <span id="5"> 5. 사이트맵</span>
+![ERD](https://github.com/user-attachments/assets/dcfdda32-3efc-4642-be94-c824e43d5a84)
 
 <br>
+
+## <span id="6"> 6. ERD</span>
+![ERD](https://github.com/user-attachments/assets/42ccc76a-1ee3-4bc2-a0e2-f153672d8fcf)
+
 
 <!-- Top Button -->
 <p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
