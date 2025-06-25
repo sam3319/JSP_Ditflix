@@ -57,7 +57,7 @@
 
 <br>
 
-## 4. 화면설계
+## <span id="4">4. 화면설계</span>
 
 <div align="center">
 
