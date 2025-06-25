@@ -63,7 +63,7 @@
 
 | 메인 페이지 | 모달 페이지 | 로그인 페이지 | 회원가입 페이지 |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/317f5b25-4a0f-4ed8-b41f-86089287fc25" width="200" alt="메인페이지"> | <img src="URL2" width="200" alt="마이홈페이지"> | <img src="URL3" width="200" alt="로그인페이지"> | <img src="URL4" width="200" alt="회원가입페이지"> |
+| <img src="https://github.com/user-attachments/assets/317f5b25-4a0f-4ed8-b41f-86089287fc25" width="200" alt="메인페이지"> | <img src="https://github.com/user-attachments/assets/8363de2c-c65a-4c61-b0c4-f956ec65d19e" width="200" alt="마이홈페이지"> | <img src="URL3" width="200" alt="로그인페이지"> | <img src="URL4" width="200" alt="회원가입페이지"> |
 
 | 검색 페이지 | 멤버쉼 페이지 | 자유 게시판 | 리뷰 게시판 |
 |:---:|:---:|:---:|:---:|
