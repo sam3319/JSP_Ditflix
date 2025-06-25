@@ -55,7 +55,7 @@
 
 ### Library
 
-<img src ="https://img.shields.io/badge/Axios-3776AB.svg?&style=for-the-badge&logo=Axios&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Axios-5A29E4.svg?&style=for-the-badge&logo=Axios&logoColor=white"/>
 
 ### Communication
 
