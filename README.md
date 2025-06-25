@@ -12,9 +12,10 @@
 1.  [프로젝트 소개](#1)
 2.  [팀원 소개](#2)
 3.  [기술스택](#3)
-4.  [워크스페이스 구조](#4)
-5.  [사이트맵](#5)
-6.  [ERD](#6)
+4.  [화면구성](#4)
+5.  [워크스페이스 구조](#5)
+6.  [사이트맵](#6)
+7.  [ERD](#7)
 
 <br>
 
@@ -56,7 +57,14 @@
 
 <br>
 
-## <span id="4"> 4. 워크스페이스 구조</span>
+## <span id="4"> 4. 화면설계</span>
+
+|Screen #1|Screen #2|
+|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="400"/>|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
+
+<br>
+## <span id="5"> 5. 워크스페이스 구조</span>
  
 ```
 📂 JSP_Ditflix/
@@ -219,12 +227,12 @@
 
 <br>
 
-## <span id="5"> 5. 사이트맵</span>
+## <span id="6"> 6. 사이트맵</span>
 ![사이트맵](https://github.com/user-attachments/assets/bccdf7b5-4e31-4680-a755-998cf7f5cb10)
 
 <br>
 
-## <span id="6"> 6. ERD</span>
+## <span id="7"> 7. ERD</span>
 ![ERD](https://github.com/user-attachments/assets/42ccc76a-1ee3-4bc2-a0e2-f153672d8fcf)
 
 
