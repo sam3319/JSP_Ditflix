@@ -57,12 +57,13 @@
 
 <br>
 
-## <span id="4"> 4. 화면설계</span>
+## 4. 화면설계
 
-|메인 #1|마이홈 #2|<!--로그인 #3|회원가입 #4|-->
-| :---: | :---: |
-| ![메인페이지](https://github.com/user-attachments/assets/1b9338ad-cf42-4f37-88ec-33fc51966689)| ![마이페이지](https://github.com/user-attachments/assets/6be54446-3234-4cb2-8965-b49da75f6f36)|
-<!--![로그인페이지](https://github.com/user-attachments/assets/1dffe2f5-4cbc-492e-bd15-0d73c19513fd)|![회원가입페이지](https://github.com/user-attachments/assets/dd5dec52-3efb-476b-927e-03439f0d464b)-->
+| 메인 페이지 | 마이홈 페이지 |
+|:---:|:---:|
+| <img src="이미지URL1" width="350" alt="메인페이지"> | <img src="이미지URL2" width="350" alt="마이페이지"> |
+| **로그인 페이지** | **회원가입 페이지** |
+| <img src="이미지URL3" width="350" alt="로그인페이지"> | <img src="이미지URL4" width="350" alt="회원가입페이지"> |
 
 
 <br>
