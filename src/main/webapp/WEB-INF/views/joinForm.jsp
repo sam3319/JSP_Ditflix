@@ -126,7 +126,7 @@
                 <!-- 회원가입 버튼 -->
                 <button type="submit" id="submitBtn" class="bg fw-semibold">회원가입</button>
                 <div class="mt-3 text-center">
-                <span>이미 계정이 있으신가요? <a href="login.do">로그인하기</a></span>
+                <span>이미 계정이 있으신가요? <a href="loginForm.do">로그인하기</a></span>
             </div>
             </form>
         </div>
