@@ -61,13 +61,17 @@
 
 <div align="center">
 
-| 메인 페이지 | 모달 페이지 | 로그인 페이지 | 회원가입 페이지 |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/317f5b25-4a0f-4ed8-b41f-86089287fc25" width="200" alt="메인페이지"> | <img src="https://github.com/user-attachments/assets/5c06bdd9-1110-42b8-a838-4d6021b60b1e" width="200" alt="모달 페이지"> | <img src="https://github.com/user-attachments/assets/488b674a-eb96-47c2-8904-1a2e4f48cae5" width="200" alt="로그인페이지"> | <img src="https://github.com/user-attachments/assets/172dc647-9518-4497-a22c-91bd6cbfec82" width="200" alt="회원가입페이지"> |
+| 메인 페이지 | 모달 페이지 | 멤버쉽 페이지 |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/317f5b25-4a0f-4ed8-b41f-86089287fc25" width="250" alt="메인"> | <img src="https://github.com/user-attachments/assets/5c06bdd9-1110-42b8-a838-4d6021b60b1e" width="250" alt="모달"> | <img src="https://github.com/user-attachments/assets/605b697e-a6e2-41ac-abd8-daa02e919a2b" width="250" alt="멤버쉽"> |
 
-| 검색 페이지 | 멤버쉼 페이지 | 자유 게시판 | 리뷰 게시판 |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/13d7a67f-1c1b-4dec-b748-abd863aa8c91" width="200" alt="상품목록"> | <img src="URL6" width="200" alt="상품상세"> | <img src="URL7" width="200" alt="장바구니"> | <img src="URL8" width="200" alt="주문완료"> |
+| 로그인 페이지 | 회원가입 페이지 | 마이 페이지 |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/488b674a-eb96-47c2-8904-1a2e4f48cae5" width="250" alt="로그인"> | <img src="https://github.com/user-attachments/assets/172dc647-9518-4497-a22c-91bd6cbfec82" width="250" alt="회원가입"> | <img src="https://github.com/user-attachments/assets/81d4e415-1d61-40b9-bfa7-18083e4cd2f2" width="250" alt="마이페이지"> |
+
+| 장바구니 페이지 | 주문완료 페이지 | 관리자 페이지 |
+|:---:|:---:|:---:|
+| <img src="URL7" width="250" alt="장바구니"> | <img src="URL8" width="250" alt="주문완료"> | <img src="URL9" width="250" alt="관리자"> |
 
 </div>
 
