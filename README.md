@@ -30,7 +30,7 @@
 
 | 팀장 | 팀원 |
 | :---: | :---: |
-| ![메인페이지](https://github.com/user-attachments/assets/ac956047-e311-4f78-81f4-6b7d85ec5dc9)| <img src="https://github.com/jihun5914.png" width="120px"/> |
+| <img src="https://github.com/sam3319.png" width="120px"/>| <img src="https://github.com/jihun5914.png" width="120px"/> |
 | [이동현](https://github.com/sam3319) | [김지훈](https://github.com/jihun5914) |
 
 </div>
@@ -61,7 +61,7 @@
 
 |메인 #1|로그인 #2|
 |:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="400"/>|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
+|![메인페이지](https://github.com/user-attachments/assets/1b9338ad-cf42-4f37-88ec-33fc51966689)|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
 
 <br>
 ## <span id="5"> 5. 워크스페이스 구조</span>
