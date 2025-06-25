@@ -61,7 +61,8 @@
 
 |메인 #1|로그인 #2|
 |:---:|:---:|
-|![메인페이지](https://github.com/user-attachments/assets/1b9338ad-cf42-4f37-88ec-33fc51966689)|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
+|![메인페이지](https://github.com/user-attachments/assets/1b9338ad-cf42-4f37-88ec-33fc51966689)|![로그인페이지](https://github.com/user-attachments/assets/1dffe2f5-4cbc-492e-bd15-0d73c19513fd)
+|
 
 <br>
 ## <span id="5"> 5. 워크스페이스 구조</span>
