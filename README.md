@@ -61,7 +61,7 @@
 
 | 메인 페이지 | 마이홈 페이지 |
 |:---:|:---:|
-| <img src="이미지URL1" width="350" alt="메인페이지"> | <img src="이미지URL2" width="350" alt="마이페이지"> |
+| <img src="https://github.com/user-attachments/assets/7e23c915-9daa-4a7a-8c2f-49401dcd187d" width="350" alt="메인페이지"> | <img src="이미지URL2" width="350" alt="마이페이지"> |
 | **로그인 페이지** | **회원가입 페이지** |
 | <img src="이미지URL3" width="350" alt="로그인페이지"> | <img src="이미지URL4" width="350" alt="회원가입페이지"> |
 
