@@ -61,11 +61,16 @@
 
 <div align="center">
 
-### 📱 메인 페이지
-<img src="https://github.com/user-attachments/assets/1b9338ad-cf42-4f37-88ec-33fc51966689" width="300" alt="메인페이지">
+| 메인 페이지 | 모달 페이지 | 로그인 페이지 | 회원가입 페이지 |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/317f5b25-4a0f-4ed8-b41f-86089287fc25" width="200" alt="메인페이지"> | <img src="URL2" width="200" alt="마이홈페이지"> | <img src="URL3" width="200" alt="로그인페이지"> | <img src="URL4" width="200" alt="회원가입페이지"> |
 
-### 🏠 마이홈 페이지  
-<img src="https://github.com/user-attachments/assets/6be54446-3234-4cb2-8965-b49da75f6f36" width="300" alt="마이페이지">
+| 검색 페이지 | 멤버쉼 페이지 | 자유 게시판 | 리뷰 게시판 |
+|:---:|:---:|:---:|:---:|
+| <img src="URL5" width="200" alt="상품목록"> | <img src="URL6" width="200" alt="상품상세"> | <img src="URL7" width="200" alt="장바구니"> | <img src="URL8" width="200" alt="주문완료"> |
+
+</div>
+
 
 </div>
 
