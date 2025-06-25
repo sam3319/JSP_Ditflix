@@ -30,7 +30,7 @@
 
 | 팀장 | 팀원 |
 | :---: | :---: |
-| <img src="https://github.com/sam3319.png" width="120px"/> | <img src="https://github.com/jihun5914.png" width="120px"/> |
+| ![메인페이지](https://github.com/user-attachments/assets/ac956047-e311-4f78-81f4-6b7d85ec5dc9)| <img src="https://github.com/jihun5914.png" width="120px"/> |
 | [이동현](https://github.com/sam3319) | [김지훈](https://github.com/jihun5914) |
 
 </div>
