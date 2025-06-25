@@ -67,11 +67,11 @@
 
 | 로그인 페이지 | 회원가입 페이지 | 마이 페이지 |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/488b674a-eb96-47c2-8904-1a2e4f48cae5" width="250" alt="로그인"> | <img src="https://github.com/user-attachments/assets/172dc647-9518-4497-a22c-91bd6cbfec82" width="250" alt="회원가입"> | <img src="https://github.com/user-attachments/assets/81d4e415-1d61-40b9-bfa7-18083e4cd2f2" width="250" alt="마이페이지"> |
+| <img src="https://github.com/user-attachments/assets/488b674a-eb96-47c2-8904-1a2e4f48cae5" width="250" alt="로그인"> | <img src="https://github.com/user-attachments/assets/172dc647-9518-4497-a22c-91bd6cbfec82" width="250" alt="회원가입"> | <img src="https://github.com/user-attachments/assets/81d4e415-1d61-40b9-bfa7-18083e4cd2f2" width="250" alt="마이홈"> |
 
-| 장바구니 페이지 | 주문완료 페이지 | 관리자 페이지 |
+| 검색 페이지 | 자유 게시판 | 리뷰 게시판 |
 |:---:|:---:|:---:|
-| <img src="URL7" width="250" alt="장바구니"> | <img src="URL8" width="250" alt="주문완료"> | <img src="URL9" width="250" alt="관리자"> |
+| <img src="https://github.com/user-attachments/assets/64edab46-7a68-4f4a-81ff-d53978e0f7ef" width="250" alt="검색"> | <img src="https://github.com/user-attachments/assets/2b376922-9c49-48d2-b6d2-29ce617618cb" width="250" alt="자유"> | <img src="https://github.com/user-attachments/assets/645f7993-9906-474c-93a6-a83a81b81c28" width="250" alt="리뷰"> |
 
 </div>
 
