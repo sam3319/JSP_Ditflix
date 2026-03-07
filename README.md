@@ -207,17 +207,7 @@
 │   │
 │   ├── 📂 images/                      # 이미지 리소스
 │   │   ├── 📂 posters/                 # 콘텐츠 포스터 (34개)
-│   │   │   ├── 📄 Avengers_poster.webp # 어벤져스 포스터
-│   │   │   ├── 📄 SpiderMan_poster.webp # 스파이더맨 포스터
-│   │   │   ├── 📄 AttackonTitan_poster.webp # 진격의 거인 포스터
-│   │   │   ├── 📄 DemonSlayer_poster.webp # 귀멸의 칼날 포스터
-│   │   │   ├── 📄 ItaewonClass_poster.webp # 이태원 클라스 포스터
-│   │   │   ├── 📄 StrangerThings_poster.webp # 스트레인저 띵스 포스터
-│   │   │   └── 📄 ... (기타 28개 포스터)
 │   │   └── 📂 thumbnails/              # 썸네일 이미지 (34개)
-│   │       ├── 📄 Avengers_thumb.webp  # 어벤져스 썸네일
-│   │       ├── 📄 SpiderMan_thumb.webp # 스파이더맨 썸네일
-│   │       └── 📄 ... (기타 32개 썸네일)
 │   │
 │   ├── 📂 photo/                       # 기본 이미지
 │   │   ├── 📂 default/
