@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <div align='center'>
-<h1><b>JSP_Ditflix</b></h1>
+<h1><b>JSP_Ditflix (Toy Project)</b></h1>
 <img src="https://img.shields.io/badge/프로젝트 기간-2025.04.03~2025.06.23-blue?style=flat&logo=&logoColor=white" />
 </div>
 
@@ -30,8 +30,8 @@
 
 | 팀장 | 팀원 |
 | :---: | :---: |
-| <img src="https://github.com/sam3319.png" width="120px"/>| <img src="https://github.com/jihun5914.png" width="120px"/> |
-| [이동현](https://github.com/sam3319) | [김지훈](https://github.com/jihun5914) |
+| <img src="https://github.com/sam3319.png" width="120px"/>| 
+| [이동현](https://github.com/sam3319) | 
 
 </div>
 <br>
